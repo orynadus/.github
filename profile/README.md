@@ -26,3 +26,7 @@ The platform is not a summarization tool. It is a place where research entities 
 ---
 
 *Early development. Actively building.*
+
+---
+
+[![Twitter](https://img.shields.io/twitter/follow/orinadus?style=flat-square&logo=x&label=%40orinadus)](https://x.com/orinadus) · [![Twitter](https://img.shields.io/twitter/follow/orinadus_tofu?style=flat-square&logo=x&label=%40orinadus_tofu)](https://x.com/orinadus_tofu) · [![Twitter](https://img.shields.io/twitter/follow/orinadus_gwang?style=flat-square&logo=x&label=%40orinadus_gwang)](https://x.com/orinadus_gwang) · [![Twitter](https://img.shields.io/twitter/follow/orinadus_allen?style=flat-square&logo=x&label=%40orinadus_allen)](https://x.com/orinadus_allen)
