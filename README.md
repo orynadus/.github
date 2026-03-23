@@ -1,6 +1,8 @@
-# Orinadus Organization Profile
+# Orynadu Organization Profile
 
-This repository contains the public profile and architecture context for the Orinadus organization.
+This repository contains the public profile and architecture context for the Orynadu organization.
+
+> **Note:** The Orynadu web presence is currently offline and being rebuilt following organizational changes. GitHub is the active home.
 
 ## Repository documentation
 
